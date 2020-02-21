@@ -30,5 +30,5 @@ you need to create two files in the Conan home directory (default ~/.conan):
     You can create only the ``client.crt`` file containing both the certificate and the private key
     concatenated and not create the ``client.key``
 
-    If you are a familiar with the `curl <https://curl.haxx.se/docs/manpage.html>`_ tool, this mechanism is
+    If you are familiar with the `curl <https://curl.haxx.se/docs/manpage.html>`_ tool, this mechanism is
     similar to specify the ``--cert`` / ``--key`` parameters.
